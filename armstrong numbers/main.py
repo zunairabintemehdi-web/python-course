@@ -1,8 +1,15 @@
-# how to determine armstrong numbers
+# how to determine armstrong numb Variable
 
 
-int=input("enter your number")
-if number:int
-print("your no. is armstrong number")
-if number:str
-print("your number is not armstrong number")
+int(input("enter your number"))
+
+random=(1,101.)
+
+if random==(1,101.):
+    print("it is armstrong no.")
+else:
+    print("it is not armstrong no.")
+
+
+
+
