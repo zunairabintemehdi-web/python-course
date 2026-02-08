@@ -1,4 +1,4 @@
-# how to determine if its prime no. or not
+# how to determine if its prime no. or not100
 num = int(input("Enter a number: "))
 if num > 1:
     for i in range(2, int(num**0.5) + 1):
